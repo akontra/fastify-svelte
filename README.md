@@ -44,7 +44,7 @@ or:
 npx degit akontra/fastify-svelte myproject
 ```
 ```bash
-cd myprojcet
+cd myproject
 ```
 ```bash
 npm install
